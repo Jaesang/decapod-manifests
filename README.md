@@ -1,2 +1,0 @@
-# decapod-manifests
-Decapod-manifests
